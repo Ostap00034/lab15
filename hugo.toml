@@ -1,4 +1,4 @@
-baseURL = 'https://Ostap00034.github.io/lab15/'
+baseURL = 'https://ostap00034.github.io/lab15/'
 locale = 'en-us'
 title = 'Проект Ostap Chichiginarov'
 theme = 'ananke'
